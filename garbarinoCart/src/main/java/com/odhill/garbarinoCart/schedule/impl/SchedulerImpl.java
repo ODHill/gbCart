@@ -39,7 +39,7 @@ public class SchedulerImpl implements Scheduler {
 	 * 
 	 */
 	@Override
-	@Scheduled(cron="0 * * * * *")
+	@Scheduled(cron="${scheduler.cron}")
 	public void proccess() {
 		List<Long> carts =  cartDao.getReadyCarts();
 		LOGGER.info("***************EJECUTANDO SCHEDULER**************");
