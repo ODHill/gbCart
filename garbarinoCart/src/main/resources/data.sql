@@ -1,0 +1,14 @@
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(1, 'Celular LG', 7500, 200);
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(2, 'Pantalla LCD Samsung 22 pulgadas', 12500, 3);
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(3, 'Playstation 4', 15500, 2);
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(4, 'Aire Acondicionado', 13400, 20);
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(5, 'Impresora Multifuncion', 1500, 200);
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(6, 'Mouse inalambrico', 1500, 2);
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(7, 'Telefono Inalambrico', 1500, 4);
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(8, 'Cable Usb', 1500, 5);
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(9, 'Teclado Genius', 1500, 78);
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(10, 'Fifa 2019 PS4', 1500, 134);
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(11, 'Router Cisco', 1500, 67);
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(12, 'Tarj Video RX 550 2GB OC', 1500, 12);
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(13, 'Bicicleta Fija', 7500, 8);
+insert into PRODUCT(ID_PRODUCT, DESCRIPTION, UNIT_PRICE, STOCK ) values(14, 'Cocina Escorial', 5999, 10);
