@@ -89,7 +89,7 @@ public class CartDto implements Serializable {
 	 * @param creationDate the creationDate to set
 	 */
 	public void setCreationDate(Date creationDate) {
-		DateFormat format = new SimpleDateFormat("yyyy-MM-DD HH:mm:ss");
+		DateFormat format = new SimpleDateFormat("YYYY-MM-dd'T'HH:MM:SS");
 		this.creationDate = format.format(creationDate);
 
 	}
